@@ -23,3 +23,13 @@
 **Link(s) to work**
 1. [PyBytes challenge 2](https://pybit.es/codechallenge02.html)
     In progress here: https://github.com/dghohens/challenges/blob/2dbdc676481f7d81118d7578c53842cb76c7c26b/02/game.py
+
+### Day 3: Saturday, November 3rd, 2018
+
+**Today's Progress**: I worked on Challenge 2 from PyBites, it's still a work in progress. This challenge runs now, but it doesn't give me the expected output and I'm still debugging a couple functions in the program. I learned about using os.chdir() and sys.path.append() in IDLE to debug problem functions that reference local file paths, which was pretty helpful for this particular challenge.
+
+**Thoughts** I probably spent about half an hour writing code today, and about 2 hours debugging what I had written. It's been very slow progress, but I was finding issues at a rate of about one every 20 minutes. I feel like I'm at the point today where staring at code isn't going to help anymore, and I need to look at this more tomorrow. Overall, it's been a mix of enjoyment and frustration.
+
+**Link(s) to work**
+1. [PyBytes challenge 2](https://pybit.es/codechallenge02.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/02/game.py
