@@ -4,6 +4,7 @@
 **I did the following before starting this challenge:**
 - I had taken some introductory courses on C and Fortran in college, and I have played around with bash scripting, TI-83+ BASIC, HTML, and Javascript.
 - Completed the Python 2.7 tutorial on Codecademy
+
     [Codecademy] (https://www.codecademy.com/)
 - Completed Project Euler problems 1-50 using basic Python scripts
     [Project Euler] (https://projecteuler.net/)
