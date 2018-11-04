@@ -7,20 +7,27 @@
 
     [Codecademy](https://www.codecademy.com/)
 - Completed Project Euler problems 1-50 using basic Python scripts
+
     [Project Euler](https://projecteuler.net/)
 - Read about half of "Automate the Boring Stuff With Python". I'll probably end up finishing this book by the end of my 100 days challenge. This is a great resource when you're new to Python. I recommend that you follow the author, @AlSweigart, on Twitter.
+
     [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - Wrote some basic Python scripts for work
 - Installed PyCharm on my PC
+
     [PyCharm](https://www.jetbrains.com/pycharm/)
 - Set up my GitHub account
+
     [GitHub](https://github.com/)
 - Integrated PyCharm with GitHub
     - This required that I first install Git to my local PC
+    
         [Git](https://git-scm.com/downloads)
     - I then had to set up PyCharm for Git integration
+    
         [Using Git integration with PyCharm](https://www.jetbrains.com/help/pycharm/using-git-integration.html)
     - Then I had to integrate PyCharm with GitHub
+    
         [Manage projects hosted on GitHub with PyCharm](https://www.jetbrains.com/help/pycharm/manage-projects-hosted-on-github.html)
 
 ### Day 1: Thursday November 1st, 2018
