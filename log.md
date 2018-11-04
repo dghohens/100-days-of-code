@@ -1,7 +1,26 @@
 # 100 Days Of Code - Log
 
 ### Day 0: Setup prior to challenge
-
+**I did the following before starting this challenge:**
+- I had taken some introductory courses on C and Fortran in college, and I have played around with bash scripting, TI-83+ BASIC, HTML, and Javascript.
+- Completed the Python 2.7 tutorial on Codecademy
+    - [Codecademy] (https://www.codecademy.com/)
+- Completed Project Euler problems 1-50 using basic Python scripts
+    - [Project Euler] (https://projecteuler.net/)
+- Read about half of "Automate the Boring Stuff With Python"
+    - [Automate the Boring Stuff with Python] (https://automatetheboringstuff.com/)
+- Wrote some basic Python scripts for work
+- Installed PyCharm on my PC
+    - [PyCharm] (https://www.jetbrains.com/pycharm/)
+- Set up my GitHub account
+    - [GitHub] (https://github.com/)
+- Integrated PyCharm with GitHub
+    - This required that I first install Git to my local PC
+        - [Git] (https://git-scm.com/downloads)
+    - I then had to set up PyCharm for Git integration
+        - [Using Git integration with PyCharm] (https://www.jetbrains.com/help/pycharm/using-git-integration.html)
+    - Then I had to integrate PyCharm with GitHub
+        [Manage projects hosted on GitHub with PyCharm] (https://www.jetbrains.com/help/pycharm/manage-projects-hosted-on-github.html)
 
 ### Day 1: Thursday November 1st, 2018
 
