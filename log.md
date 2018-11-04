@@ -60,3 +60,21 @@
 **Link(s) to work**
 1. [PyBytes challenge 2](https://pybit.es/codechallenge02.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/02/game.py
+
+
+### Day 4: Sunday, November 4th, 2018
+
+**Today's Progress**: I finally finished challenge 2 from PyBites! I also completed the Python Village at Rosalind and started challenge 3 on PyBites.
+
+**Thoughts** I'm really happy I got challenge 2 done. I found that I was missing a few silly things that were pretty much obvious this morning. I also watched the new tutorial videos from sentdex on Youtube last night, and that helped a lot. The Rosalind problems are a little different pace than the PyBites challenges. I think I like working on the longer PyBytes challenges more, but Rosalind will help me to get used to writing smaller scripts for easier problems. I'll probably continue with a mix of both tomorrow.
+
+**Link(s) to work**
+1. [PyBytes challenge 2](https://pybit.es/codechallenge02.html)
+    Completed here: https://github.com/dghohens/challenges/blob/master/02/game.py
+2. Rosalind Python Village
+    Found here: http://rosalind.info/problems/tree-view/?location=python-village
+3. [PyBites challenge 3](https://pybit.es/codechallenge03.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/03/tags.py
+
+**Resources**
+[sentdex Learning to program with Python playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
