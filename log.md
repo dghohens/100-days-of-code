@@ -78,3 +78,13 @@
 
 **Resources**
 [sentdex Learning to program with Python playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
+
+### Day 5: Monday, November 5th, 2018
+
+**Today's Progress**: Still working on challenge 3 from PyBytes, I think I'm at least halfway through.
+
+**Thoughts** I'm starting to grasp some concepts that gave me trouble earlier. I can feel my programming skills improving, which is good to see. I still feel like I'm very slow at writing code, but hopefully I'll get better with time.
+
+**Link(s) to work**
+1. [PyBites challenge 3](https://pybit.es/codechallenge03.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/03/tags.py
