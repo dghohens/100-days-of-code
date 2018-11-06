@@ -34,7 +34,7 @@
 
 **Today's Progress**: I went through Warmup-1 > sleep_in on CodingBat, and completed Challenge 1 from PyBites
 
-**Thoughts** I didn't make much progress today, and I felt that every single step was a struggle. I'm looking forward to getting better at this!
+**Thoughts**: I didn't make much progress today, and I felt that every single step was a struggle. I'm looking forward to getting better at this!
 
 **Link(s) to work**
 1. [CodingBat Warmup 1: sleep_in](https://codingbat.com/prob/p173401)
@@ -45,7 +45,7 @@
 
 **Today's Progress**: I worked on Challenge 2 from PyBites, it's still a work in progress.
 
-**Thoughts** I feel like I made even less progress than yesterday, but I feel like I spent less time looking at documentation and more time trying to figure out the logic of my program. I'm not sure if this is good, but it feels like I'm making progress. I also feel like I was thinking about Python pretty much all day yesterday, and I was excited to start coding this morning, so that's good!
+**Thoughts**: I feel like I made even less progress than yesterday, but I feel like I spent less time looking at documentation and more time trying to figure out the logic of my program. I'm not sure if this is good, but it feels like I'm making progress. I also feel like I was thinking about Python pretty much all day yesterday, and I was excited to start coding this morning, so that's good!
 
 **Link(s) to work**
 1. [PyBytes challenge 2](https://pybit.es/codechallenge02.html)
@@ -55,7 +55,7 @@
 
 **Today's Progress**: I worked on Challenge 2 from PyBites, it's still a work in progress. This challenge runs now, but it doesn't give me the expected output and I'm still debugging a couple functions in the program. I learned about using os.chdir() and sys.path.append() in IDLE to debug problem functions that reference local file paths, which was pretty helpful for this particular challenge.
 
-**Thoughts** I probably spent about half an hour writing code today, and about 2 hours debugging what I had written. It's been very slow progress, but I was finding issues at a rate of about one every 20 minutes. I feel like I'm at the point today where staring at code isn't going to help anymore, and I need to look at this more tomorrow. Overall, it's been a mix of enjoyment and frustration.
+**Thoughts**: I probably spent about half an hour writing code today, and about 2 hours debugging what I had written. It's been very slow progress, but I was finding issues at a rate of about one every 20 minutes. I feel like I'm at the point today where staring at code isn't going to help anymore, and I need to look at this more tomorrow. Overall, it's been a mix of enjoyment and frustration.
 
 **Link(s) to work**
 1. [PyBytes challenge 2](https://pybit.es/codechallenge02.html)
@@ -66,7 +66,7 @@
 
 **Today's Progress**: I finally finished challenge 2 from PyBites! I also completed the Python Village at Rosalind and started challenge 3 on PyBites.
 
-**Thoughts** I'm really happy I got challenge 2 done. I found that I was missing a few silly things that were pretty much obvious this morning. I also watched the new tutorial videos from sentdex on Youtube last night, and that helped a lot. The Rosalind problems are a little different pace than the PyBites challenges. I think I like working on the longer PyBytes challenges more, but Rosalind will help me to get used to writing smaller scripts for easier problems. I'll probably continue with a mix of both tomorrow.
+**Thoughts**: I'm really happy I got challenge 2 done. I found that I was missing a few silly things that were pretty much obvious this morning. I also watched the new tutorial videos from sentdex on Youtube last night, and that helped a lot. The Rosalind problems are a little different pace than the PyBites challenges. I think I like working on the longer PyBytes challenges more, but Rosalind will help me to get used to writing smaller scripts for easier problems. I'll probably continue with a mix of both tomorrow.
 
 **Link(s) to work**
 1. [PyBytes challenge 2](https://pybit.es/codechallenge02.html)
@@ -83,7 +83,7 @@
 
 **Today's Progress**: Still working on challenge 3 from PyBytes, I think I'm at least halfway through.
 
-**Thoughts** I'm starting to grasp some concepts that gave me trouble earlier. I can feel my programming skills improving, which is good to see. I still feel like I'm very slow at writing code, but hopefully I'll get better with time.
+**Thoughts**: I'm starting to grasp some concepts that gave me trouble earlier. I can feel my programming skills improving, which is good to see. I still feel like I'm very slow at writing code, but hopefully I'll get better with time.
 
 **Link(s) to work**
 1. [PyBites challenge 3](https://pybit.es/codechallenge03.html)
@@ -93,7 +93,7 @@
 
 **Today's Progress**: Finished challenge 3 from PyBites! I was almost finished with it yesterday, and wrapping it up was easier than I thought. I started on challenge 4 from PyBites and probably spent about 20 minutes today just getting my Twitter developer account set up.
 
-**Thoughts** I had a decent amount of progress today. The new PyBites challenge requires a lot of scary advanced Python concepts that I've been avoiding, like classes and constructors. I'm excited to dig more into those tomorrow.
+**Thoughts**: I had a decent amount of progress today. The new PyBites challenge requires a lot of scary advanced Python concepts that I've been avoiding, like classes and constructors. I'm excited to dig more into those tomorrow.
 
 **Link(s) to work**
 1. [PyBites challenge 3](https://pybit.es/codechallenge03.html)
