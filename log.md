@@ -88,3 +88,15 @@
 **Link(s) to work**
 1. [PyBites challenge 3](https://pybit.es/codechallenge03.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/03/tags.py
+    
+### Day 6: Tuesday, November 6th, 2018
+
+**Today's Progress**: Finished challenge 3 from PyBites! I was almost finished with it yesterday, and wrapping it up was easier than I thought. I started on challenge 4 from PyBites and probably spent about 20 minutes today just getting my Twitter developer account set up.
+
+**Thoughts** I had a decent amount of progress today. The new PyBites challenge requires a lot of scary advanced Python concepts that I've been avoiding, like classes and constructors. I'm excited to dig more into those tomorrow.
+
+**Link(s) to work**
+1. [PyBites challenge 3](https://pybit.es/codechallenge03.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/03/tags.py
+2. [PyBites challenge 4](https://pybit.es/codechallenge04.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/04/usertweets.py
