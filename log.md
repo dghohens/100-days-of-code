@@ -100,3 +100,13 @@
     In progress here: https://github.com/dghohens/challenges/blob/master/03/tags.py
 2. [PyBites challenge 4](https://pybit.es/codechallenge04.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/04/usertweets.py
+
+### Day 7: Wednesday, November 7th, 2018
+
+**Today's Progress**: Still working on challenge 4 from PyBites, I think I'm about halfway through?
+
+**Thoughts**: I went through a lot of new stuff today. This was my first time using classes and constructors in Python. It was also the first time I used an API! I think I can get this challenge finished tomorrow. I have also started debugging early by printing the output of each function once I'm done with it, and making sure the function works before moving on to the next function. I'm sure this will save me time at the end when I'm trying to run the whole program.
+
+**Link(s) to work**
+1. [PyBites challenge 4](https://pybit.es/codechallenge04.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/04/usertweets.py
