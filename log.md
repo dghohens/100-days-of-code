@@ -115,7 +115,7 @@
 
 **Today's Progress**: Still working on challenge 4 from PyBites, I'm almost done!
 
-**Thoughts**: A lot more progress today! I'm thinking I might take a break from PyBites after this challenge and try some other challenges, maybe Rosalind? I'm learning a ton on the PyBites challenges, but I want to get used to programming with no starting template or logic. Also, I think easier challenges will build my confidence and reenforce the basics.
+**Thoughts**: A lot more progress today! I'm thinking I might take a break from PyBites after this challenge and try some other challenges, maybe Rosalind? I'm learning a ton on the PyBites challenges, but I want to get used to programming with no starting template or logic. Also, I think easier challenges will build my confidence and reinforce the basics.
 
 **Link(s) to work**
 1. [PyBites challenge 4](https://pybit.es/codechallenge04.html)
