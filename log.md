@@ -120,3 +120,15 @@
 **Link(s) to work**
 1. [PyBites challenge 4](https://pybit.es/codechallenge04.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/04/usertweets.py
+    
+### Day 9: Friday, November 9th, 2018
+
+**Today's Progress**: Completed challenge 4 from PyBites, compeleted 4 Rosalind challenges. I'm working on the first "hard" Rosalind challenge, Mendel's First Law.
+
+**Thoughts**: I'm glad I decided to circle back and do some more basic scripting today. I had to refer to a book a couple times, but I didn't feel like I spent a lot of time trying to find out what I'm doing wrong. I'm going to finish this next Rosalind challenge, then go back to PyBites.
+
+**Link(s) to work**
+1. [PyBites challenge 4](https://pybit.es/codechallenge04.html)
+    Completed here: https://github.com/dghohens/challenges/blob/master/04/usertweets.py
+2. [Rosalind problems](http://rosalind.info/problems/tree-view/)
+    In progress here: https://github.com/dghohens/RosalindChallenges
