@@ -132,3 +132,14 @@
     Completed here: https://github.com/dghohens/challenges/blob/master/04/usertweets.py
 2. [Rosalind problems](http://rosalind.info/problems/tree-view/)
     In progress here: https://github.com/dghohens/RosalindChallenges
+
+### Day 10: Saturday, November 10th, 2018
+
+**Today's Progress**: I worked on the Rosalind challenge, Mendel's First Law, but I wasn't able to make any progress on it. I think I'm limited on that problem by my understanding of probability and math, not by my programming knowledge. I stopped working on the Rosalind challenge, looked at PyBites challenge 5, then decided to go through some CodingBat challanges. I was able to fly through the CodingBat warmup 1, which is good to see.
+
+**Thoughts**: I'm glad I decided to do the CodingBat challenges, because it let me actually spend my hour writing code rather than trying to learn probability or set everything back up for PyBites challenge 5.
+
+**Link(s) to work**
+1. [Rosalind problems](http://rosalind.info/problems/tree-view/)
+    In progress here: https://github.com/dghohens/RosalindChallenges
+2. [CodingBat](https://codingbat.com/python)
