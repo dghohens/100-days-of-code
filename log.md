@@ -143,3 +143,13 @@
 1. [Rosalind problems](http://rosalind.info/problems/tree-view/)
     In progress here: https://github.com/dghohens/RosalindChallenges
 2. [CodingBat](https://codingbat.com/python)
+
+### Day 11: Sunday, November 11th, 2018
+
+**Today's Progress**: I worked on PyBites challenge 5. I think I made some good progress, and I hope to have it finished by tomorrow.
+
+**Thoughts**: PyBites challenge 5 seems easier today than it did yesterday, but maybe that's just because I spent some time digging into it. I looked at the suggested package, Gensim, and that looks pretty complex. I might just come up with my own topic matching method tomorrow so I can get this challenge completed. I feel like programming is getting a little easier every day.
+
+**Link(s) to work**
+1. [PyBites challenge 5](https://pybit.es/codechallenge05.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/05/similar_tweeters.py
