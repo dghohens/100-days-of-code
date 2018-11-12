@@ -153,3 +153,15 @@
 **Link(s) to work**
 1. [PyBites challenge 5](https://pybit.es/codechallenge05.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/05/similar_tweeters.py
+
+### Day 12: Monday, November 12th, 2018
+
+**Today's Progress**: I finished PyBites challenge 5, and technically finished PyBites challenge 6, since PyPI already has more than 100,000 packages. I'm going with the spirit of the challenge, though, so tomorrow I'll be working on PyBites challenge 6 to find out when PyPI will have more than 200,000 packages.
+
+**Thoughts**: Lots of good progress today. I like how the PyBites challenges are transitioning from a starting template to a blank file. The starting template was helpful in the beginning, but I wasn't sure whether I'd be able to figure the program out on my own.
+
+1. [PyBites challenge 5](https://pybit.es/codechallenge05.html)
+    Completed here: https://github.com/dghohens/challenges/blob/master/05/similar_tweeters.py
+2. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
+    Here's why I modified the challenge: https://twitter.com/pybites/status/838178449999081472
