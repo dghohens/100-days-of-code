@@ -165,3 +165,12 @@
 2. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
     Here's why I modified the challenge: https://twitter.com/pybites/status/838178449999081472
+    
+### Day 13: Tuesday, November 13th, 2018
+
+**Today's Progress**: I'm still working on PyBites challenge 6.
+
+**Thoughts**: I got some good practice working with the PyPI API, but I've only been able to get information about updates to packages so far. I haven't found a good way to find out when new packages were added to PyPI.
+
+1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
