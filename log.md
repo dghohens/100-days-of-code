@@ -174,3 +174,12 @@
 
 1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
+
+### Day 14: Wednesday, November 14th, 2018
+
+**Today's Progress**: I'm still working on PyBites challenge 6.
+
+**Thoughts**: I think I came up with a clever way to get info on when packages were first added to PyPI. I'm not sure I know how to analyze that and make a decent prediction, but that's a problem for tomorrow.
+
+1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
