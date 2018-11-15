@@ -183,3 +183,14 @@
 
 1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
+
+### Day 15: Thursday, November 15th, 2018
+
+**Today's Progress**: I'm still working on PyBites challenge 6.
+
+**Thoughts**: I was able to pull the full list of all packages from PyPI, then get the first upload dates for every hundredth package. I'm pretty sure I need a linear regression to predict when PyPI will hit 200,000 packages, but first I need to use my list of dates to get a number of packages per day.
+
+I really didn't think this challenge would be this difficult, but I'm learning a ton!
+
+1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
