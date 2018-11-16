@@ -194,3 +194,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
+
+### Day 16: Friday, November 16th, 2018
+
+**Today's Progress**: I'm still working on PyBites challenge 6.
+
+**Thoughts**: I'm getting closer every day. I have the running total of packages by date, now I just need to turn that into something that can make a prediction. I hope to have this finished tomorrow.
+
+1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
