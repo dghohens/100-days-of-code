@@ -203,3 +203,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
+    
+### Day 17: Saturday, November 16th, 2018
+
+**Today's Progress**: I'm still working on PyBites challenge 6.
+
+**Thoughts**: Still working on it! I'm pretty sure I got the data to a state where I can run analysis on it, but I can't make heads or tails of the output. I might do another challenge tomorrow while I brush up on statistics.
+
+1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
+    In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
