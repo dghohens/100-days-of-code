@@ -204,7 +204,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
     
-### Day 17: Saturday, November 16th, 2018
+### Day 17: Saturday, November 17th, 2018
 
 **Today's Progress**: I'm still working on PyBites challenge 6.
 
@@ -212,3 +212,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
+    
+### Day 18: Sunday, November 18th, 2018
+
+**Today's Progress**: I went through 6 Automate the Boring Stuff with Python practice projects.
+
+**Thoughts**: Wow, I was able to do these projects at a rate of 1 every 10 minutes! That's 2-3x faster than it took me months ago when I first started reading ATBS!
+
+1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+    Completed projects here: https://github.com/dghohens/ATBSPracticeProjects
