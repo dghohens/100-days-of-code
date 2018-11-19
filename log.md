@@ -221,3 +221,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
     Completed projects here: https://github.com/dghohens/ATBSPracticeProjects
+
+### Day 19: Monday, November 19th, 2018
+
+**Today's Progress**: I went through some more Automate the Boring Stuff with Python practice projects.
+
+**Thoughts**: I wasn't able to get as many projects done today, or get the last project to work at all. Still, I feel pretty good about what I was able to do today.
+
+1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+    Completed projects here: https://github.com/dghohens/ATBSPracticeProjects
