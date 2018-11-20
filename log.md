@@ -230,3 +230,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
     Completed projects here: https://github.com/dghohens/ATBSPracticeProjects
+
+### Day 20: Tuesday, November 20th, 2018
+
+**Today's Progress**: I made Conway's game of life!
+
+**Thoughts**: I thought I'd do a fun project today, so I built Conway's game of life! I'm really pleased that I was able to completely code this and get it running in an hour!
+
+1. [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life/)
+    Completed here (it runs best in a Windows CLI session): https://github.com/dghohens/Conway/blob/master/ConwaysGameofLifeV1.py
