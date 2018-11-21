@@ -239,3 +239,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life/)
     Completed here (it runs best in a Windows CLI session): https://github.com/dghohens/Conway/blob/master/ConwaysGameofLifeV1.py
+
+### Day 21: Wednesday, November 21st, 2018
+
+**Today's Progress**: I completed Project Euler problems 1 and 2, and got started on 3. I'm forcing myself to use at least one class, list comprehension, or lambda in the solution for each problem, even if (especially if) it seems easier to use other methods.
+
+**Thoughts**: I feel a little more comfortable with these problem topics, but it's also kind of difficult to force them into a program. I'm planning on continuing to force myself to use these through day 25, and hopefully that'll teach me what these things are actually useful for.
+
+1. [Project Euler](https://projecteuler.net/)
+    In progress here: https://github.com/dghohens/ProjectEuler
