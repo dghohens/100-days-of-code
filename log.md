@@ -248,3 +248,13 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
+    
+
+### Day 22: Thursday, November 22nd, 2018
+
+**Today's Progress**: I worked on Project Euler problem 3. I wasn't able to complete it, or find a way to make it go any faster.
+
+**Thoughts**: Not much progress today, but I think at least part of that is from coding after eating a bunch of turkey for Thanksgiving. I got my hour in, though!
+
+1. [Project Euler](https://projecteuler.net/)
+    In progress here: https://github.com/dghohens/ProjectEuler
