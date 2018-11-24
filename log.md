@@ -264,7 +264,17 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Today's Progress**: I worked on Project Euler problems 3, 4, 5, and 6. I think I figured out how to make problem 3 go faster, but I didn't have time to implement it.
 
-**Thoughts**: More progress today! I don't think classes are helpful for the short programs I'm writing, but I'm still playing with them to get used to them. I'm feeling pretty good about list comprehensions, not really sure about Lambdas yet.
+**Thoughts**: More progress today! I don't think classes are helpful for the short programs I'm writing, but I'm still playing with them to get used to them. I'm feeling pretty good about list comprehensions, not really sure about lambdas yet.
 
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
+    
+### Day 23: Friday, November 23nd, 2018
+
+**Today's Progress**: I worked on Project Euler problems 3, 7, 8, 9, and 10. I started to work on problem 11, but I ran out of time.
+
+**Thoughts**: I think I'm doing pretty good. List comprehensions are starting to be easy, lambdas seem to be easy (but don't really save much code) and classes seem to just be used for one function. I think once I get into some more advanced Python projects I'll see the benefit of these features, but I find myself just wanting to use list comprehensions for now.
+
+1. [Project Euler](https://projecteuler.net/)
+    In progress here: https://github.com/dghohens/ProjectEuler
+
