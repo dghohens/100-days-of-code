@@ -258,3 +258,13 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
+
+
+### Day 23: Friday, November 23nd, 2018
+
+**Today's Progress**: I worked on Project Euler problems 3, 4, 5, and 6. I think I figured out how to make problem 3 go faster, but I didn't have time to implement it.
+
+**Thoughts**: More progress today! I don't think classes are helpful for the short programs I'm writing, but I'm still playing with them to get used to them. I'm feeling pretty good about list comprehensions, not really sure about Lambdas yet.
+
+1. [Project Euler](https://projecteuler.net/)
+    In progress here: https://github.com/dghohens/ProjectEuler
