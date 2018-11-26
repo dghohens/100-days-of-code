@@ -260,7 +260,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
     In progress here: https://github.com/dghohens/ProjectEuler
 
 
-### Day 23: Friday, November 23nd, 2018
+### Day 23: Friday, November 23rd, 2018
 
 **Today's Progress**: I worked on Project Euler problems 3, 4, 5, and 6. I think I figured out how to make problem 3 go faster, but I didn't have time to implement it.
 
@@ -269,7 +269,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
     
-### Day 23: Friday, November 23nd, 2018
+### Day 24: Saturday, November 24th, 2018
 
 **Today's Progress**: I worked on Project Euler problems 3, 7, 8, 9, and 10. I started to work on problem 11, but I ran out of time.
 
@@ -278,3 +278,11 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
+### Day 25: Sunday, November 25th, 2018
+
+**Today's Progress**: I worked on Project Euler problems 11 and 50.
+
+**Thoughts**: It's going well, but it's hard to keep focused over a long weekend.
+
+1. [Project Euler](https://projecteuler.net/)
+    In progress here: https://github.com/dghohens/ProjectEuler
