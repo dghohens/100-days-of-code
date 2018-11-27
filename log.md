@@ -286,3 +286,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
+
+### Day 26: Monday, November 26th, 2018
+
+**Today's Progress**: I worked on Project Euler problems 50 and 51.
+
+**Thoughts**: I had to break up today's session into 2 parts, which is never good. I think I made some decent progress though.
+
+1. [Project Euler](https://projecteuler.net/)
+    In progress here: https://github.com/dghohens/ProjectEuler
