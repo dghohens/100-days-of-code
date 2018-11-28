@@ -304,3 +304,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
+
+### Day 28: Wednesday, November 28th, 2018
+
+**Today's Progress**: I worked on Project Euler problem 54.
+
+**Thoughts**: Lots of work on a single class for this problem. It's pretty fun! I also learned how to use a set in Python.
+
+1. [Project Euler](https://projecteuler.net/)
+    In progress here: https://github.com/dghohens/ProjectEuler
