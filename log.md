@@ -313,3 +313,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
+
+### Day 29: Thursday, November 29th, 2018
+
+**Today's Progress**: I worked on Project Euler problem 54.
+
+**Thoughts**: I think I finally got the class for matching poker hands done. I think I'll have this one done tomorrow or Saturday.
+
+1. [Project Euler](https://projecteuler.net/)
+    In progress here: https://github.com/dghohens/ProjectEuler
