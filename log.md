@@ -322,3 +322,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
+
+### Day 30: Friday, November 30th, 2018
+
+**Today's Progress**: I worked on Project Euler problem 54.
+
+**Thoughts**: Got all the classes debugged, working on matching logic now. I'm feeling pretty good about doing this for 30 days straight!
+
+1. [Project Euler](https://projecteuler.net/)
+    In progress here: https://github.com/dghohens/ProjectEuler
