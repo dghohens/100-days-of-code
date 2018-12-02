@@ -341,3 +341,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
+### Day 32: Sunday, December 2nd, 2018
+
+**Today's Progress**: I finally finished Project Euler problem 54!
+
+**Thoughts**: I finally ran out of problems to solve on this program and got it working! Now I just need to circle back to problem 51 and 52 to figure those out!
+
+1. [Project Euler](https://projecteuler.net/)
+    In progress here: https://github.com/dghohens/ProjectEuler
+
