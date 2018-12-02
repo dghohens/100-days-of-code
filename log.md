@@ -331,3 +331,13 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
+
+### Day 31: Saturday, December 1st, 2018
+
+**Today's Progress**: I worked on Project Euler problem 54.
+
+**Thoughts**: A whole month of coding is behind me! That's pretty awesome! This Project Euler program feels like I'm fighting a Hydra - more and more difficult problems keep popping up. However, I'm making good progress, and I'm coding a lot!
+
+1. [Project Euler](https://projecteuler.net/)
+    In progress here: https://github.com/dghohens/ProjectEuler
+
