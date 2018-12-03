@@ -350,3 +350,11 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
+### Day 33: Monday, December 3rd, 2018
+
+**Today's Progress**: I worked on some Advent of Code problems. I was able to solve the first 4.
+
+**Thoughts**: Advent of Code is pretty cool, I'm going to see if I can keep up with it through December!
+
+1. [Advent of Code](https://adventofcode.com/)
+    In progress here: https://github.com/dghohens/AdventOfCode
