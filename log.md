@@ -358,3 +358,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
+    
+### Day 34: Tuesday, December 4th, 2018
+
+**Today's Progress**: I worked on Advent of Code problem 3.1. It's pretty tough!
+
+**Thoughts**: This problem's pretty tough! I think I got a solution, but the program is taking forever to complete. I probably need to optimize this somehow.
+
+1. [Advent of Code](https://adventofcode.com/)
+    In progress here: https://github.com/dghohens/AdventOfCode
