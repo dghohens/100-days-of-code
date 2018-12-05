@@ -367,3 +367,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
+
+### Day 35: Wednesday, December 5th, 2018
+
+**Today's Progress**: I worked on Advent of Code problems 3.1, 3.2, and 4.1.
+
+**Thoughts**: These are tough, but I like them a lot! I also realized that it takes HOURS for Python to continually add to a long long list, but it takes only seconds for it to write the same amount of data to a file. That probably has something to do with the fact that the whole list is in memory the whole time, vs. just tacking on another line to a file. It's funny to think that I made Advent of Code problem 3.1 run faster by using storage rather than memory!
+
+1. [Advent of Code](https://adventofcode.com/)
+    In progress here: https://github.com/dghohens/AdventOfCode
