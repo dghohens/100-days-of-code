@@ -376,3 +376,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
+
+### Day 36: Thursday, December 6th, 2018
+
+**Today's Progress**: I worked on Advent of Code problems 4.1, 4.2, and 5.1.
+
+**Thoughts**: I feel like I made some good progress today, and the hour just flew by! I wish I could code more, but I have to go to work.
+
+1. [Advent of Code](https://adventofcode.com/)
+    In progress here: https://github.com/dghohens/AdventOfCode
