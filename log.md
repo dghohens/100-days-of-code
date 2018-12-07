@@ -385,3 +385,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
+
+### Day 37: Friday, December 7th, 2018
+
+**Today's Progress**: I worked on Advent of Code problems 5.1, 5.2, and 6.1.
+
+**Thoughts**: I don't think I got as much done today, but it was still a lot of fun!
+
+1. [Advent of Code](https://adventofcode.com/)
+    In progress here: https://github.com/dghohens/AdventOfCode
