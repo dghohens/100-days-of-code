@@ -394,3 +394,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
+
+### Day 38: Saturday, December 8th, 2018
+
+**Today's Progress**: I worked on Advent of Code problems 6.1 and 7.1.
+
+**Thoughts**: I think I found the solution for 6.1, but it looks like it'll take about an hour and a half to complete. I guess that's what happens when the requirements say to calculate distance to points on an infinite field! I'm not actually calculating an infinite field for that one, but I am having my code go through way more points than is probably necessary.
+
+1. [Advent of Code](https://adventofcode.com/)
+    In progress here: https://github.com/dghohens/AdventOfCode
