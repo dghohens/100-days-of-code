@@ -403,3 +403,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
+
+### Day 39: Sunday, December 9th, 2018
+
+**Today's Progress**: I worked on Advent of Code problems 6.1 and 7.1.
+
+**Thoughts**: I didn't get much done today, but that can partly be blamed on an internet outage. The majority of the blame lies with me, though. I did have fun coding, I just didn't find any correct answers to coding challenges.
+
+1. [Advent of Code](https://adventofcode.com/)
+    In progress here: https://github.com/dghohens/AdventOfCode
