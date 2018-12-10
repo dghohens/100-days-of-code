@@ -412,3 +412,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
+
+### Day 40: Monday, December 10th, 2018
+
+**Today's Progress**: I worked on Advent of Code problems 6.1 and 7.1.
+
+**Thoughts**: Still didn't get much done today, but I think I figured out what I did wrong on 6.1 at least.
+
+1. [Advent of Code](https://adventofcode.com/)
+    In progress here: https://github.com/dghohens/AdventOfCode
