@@ -430,3 +430,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
+
+### Day 42: Wednesday, December 12th, 2018
+
+**Today's Progress**: I worked on Advent of Code problems 6.2, 7.1, and 8.1.
+
+**Thoughts**: I spent most of my time debugging 7.1. I got the right answer yesterday, but that was by checking my results line by line and finding where my program went off track. I think I ran into a weird python issue on 7.1, but I asked for some help in a forum to make sure I'm not missing something simple.
+
+1. [Advent of Code](https://adventofcode.com/)
+    In progress here: https://github.com/dghohens/AdventOfCode
