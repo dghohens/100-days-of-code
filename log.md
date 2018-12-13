@@ -439,3 +439,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
+
+### Day 43: Thursday, December 13th, 2018
+
+**Today's Progress**: I worked on Advent of Code problems 7.1, 7.2, and 8.1.
+
+**Thoughts**: I figured out what I was doing wrong on 7.1, and I spent most of the rest of my time trying to work out the logic for 7.2 and 8.1. I think I have an idea of how to approach 8.1, but I'm still lost on 7.2.
+
+1. [Advent of Code](https://adventofcode.com/)
+    In progress here: https://github.com/dghohens/AdventOfCode
