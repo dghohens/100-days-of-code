@@ -160,6 +160,7 @@
 
 **Thoughts**: Lots of good progress today. I like how the PyBites challenges are transitioning from a starting template to a blank file. The starting template was helpful in the beginning, but I wasn't sure whether I'd be able to figure the program out on my own.
 
+**Link(s) to work**
 1. [PyBites challenge 5](https://pybit.es/codechallenge05.html)
     Completed here: https://github.com/dghohens/challenges/blob/master/05/similar_tweeters.py
 2. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
@@ -172,6 +173,7 @@
 
 **Thoughts**: I got some good practice working with the PyPI API, but I've only been able to get information about updates to packages so far. I haven't found a good way to find out when new packages were added to PyPI.
 
+**Link(s) to work**
 1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
 
@@ -181,6 +183,7 @@
 
 **Thoughts**: I think I came up with a clever way to get info on when packages were first added to PyPI. I'm not sure I know how to analyze that and make a decent prediction, but that's a problem for tomorrow.
 
+**Link(s) to work**
 1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
 
@@ -192,6 +195,7 @@
 
 I really didn't think this challenge would be this difficult, but I'm learning a ton!
 
+**Link(s) to work**
 1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
 
@@ -201,6 +205,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I'm getting closer every day. I have the running total of packages by date, now I just need to turn that into something that can make a prediction. I hope to have this finished tomorrow.
 
+**Link(s) to work**
 1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
     
@@ -210,6 +215,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: Still working on it! I'm pretty sure I got the data to a state where I can run analysis on it, but I can't make heads or tails of the output. I might do another challenge tomorrow while I brush up on statistics.
 
+**Link(s) to work**
 1. [PyBites challenge 6](https://pybit.es/codechallenge06.html)
     In progress here: https://github.com/dghohens/challenges/blob/master/06/pypi200k.py
     
@@ -219,6 +225,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: Wow, I was able to do these projects at a rate of 1 every 10 minutes! That's 2-3x faster than it took me months ago when I first started reading ATBS!
 
+**Link(s) to work**
 1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
     Completed projects here: https://github.com/dghohens/ATBSPracticeProjects
 
@@ -228,6 +235,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I wasn't able to get as many projects done today, or get the last project to work at all. Still, I feel pretty good about what I was able to do today.
 
+**Link(s) to work**
 1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
     Completed projects here: https://github.com/dghohens/ATBSPracticeProjects
 
@@ -237,6 +245,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I thought I'd do a fun project today, so I built Conway's game of life! I'm really pleased that I was able to completely code this and get it running in an hour!
 
+**Link(s) to work**
 1. [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life/)
     Completed here (it runs best in a Windows CLI session): https://github.com/dghohens/Conway/blob/master/ConwaysGameofLifeV1.py
 
@@ -246,6 +255,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I feel a little more comfortable with these problem topics, but it's also kind of difficult to force them into a program. I'm planning on continuing to force myself to use these through day 25, and hopefully that'll teach me what these things are actually useful for.
 
+**Link(s) to work**
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
     
@@ -256,6 +266,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: Not much progress today, but I think at least part of that is from coding after eating a bunch of turkey for Thanksgiving. I got my hour in, though!
 
+**Link(s) to work**
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
@@ -266,6 +277,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: More progress today! I don't think classes are helpful for the short programs I'm writing, but I'm still playing with them to get used to them. I'm feeling pretty good about list comprehensions, not really sure about lambdas yet.
 
+**Link(s) to work**
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
     
@@ -275,6 +287,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I think I'm doing pretty good. List comprehensions are starting to be easy, lambdas seem to be easy (but don't really save much code) and classes seem to just be used for one function. I think once I get into some more advanced Python projects I'll see the benefit of these features, but I find myself just wanting to use list comprehensions for now.
 
+**Link(s) to work**
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
@@ -284,6 +297,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: It's going well, but it's hard to keep focused over a long weekend.
 
+**Link(s) to work**
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
@@ -293,6 +307,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I had to break up today's session into 2 parts, which is never good. I think I made some decent progress though.
 
+**Link(s) to work**
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
@@ -302,6 +317,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I think I made some good progress today, and it makes sense to use a class for problem 54, so that's good. I'm looking forward to working with a "real" class tomorrow on problem 54.
 
+**Link(s) to work**
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
@@ -311,6 +327,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: Lots of work on a single class for this problem. It's pretty fun! I also learned how to use a set in Python.
 
+**Link(s) to work**
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
@@ -320,6 +337,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I think I finally got the class for matching poker hands done. I think I'll have this one done tomorrow or Saturday.
 
+**Link(s) to work**
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
@@ -329,6 +347,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: Got all the classes debugged, working on matching logic now. I'm feeling pretty good about doing this for 30 days straight!
 
+**Link(s) to work**
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
@@ -338,6 +357,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: A whole month of coding is behind me! That's pretty awesome! This Project Euler program feels like I'm fighting a Hydra - more and more difficult problems keep popping up. However, I'm making good progress, and I'm coding a lot!
 
+**Link(s) to work**
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
@@ -347,6 +367,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I finally ran out of problems to solve on this program and got it working! Now I just need to circle back to problem 51 and 52 to figure those out!
 
+**Link(s) to work**
 1. [Project Euler](https://projecteuler.net/)
     In progress here: https://github.com/dghohens/ProjectEuler
 
@@ -356,6 +377,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: Advent of Code is pretty cool, I'm going to see if I can keep up with it through December!
 
+**Link(s) to work**
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
     
@@ -365,6 +387,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: This problem's pretty tough! I think I got a solution, but the program is taking forever to complete. I probably need to optimize this somehow.
 
+**Link(s) to work**
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
 
@@ -374,6 +397,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: These are tough, but I like them a lot! I also realized that it takes HOURS for Python to continually add to a long long list, but it takes only seconds for it to write the same amount of data to a file. That probably has something to do with the fact that the whole list is in memory the whole time, vs. just tacking on another line to a file. It's funny to think that I made Advent of Code problem 3.1 run faster by using storage rather than memory!
 
+**Link(s) to work**
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
 
@@ -383,6 +407,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I feel like I made some good progress today, and the hour just flew by! I wish I could code more, but I have to go to work.
 
+**Link(s) to work**
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
 
@@ -392,6 +417,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I don't think I got as much done today, but it was still a lot of fun!
 
+**Link(s) to work**
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
 
@@ -401,6 +427,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I think I found the solution for 6.1, but it looks like it'll take about an hour and a half to complete. I guess that's what happens when the requirements say to calculate distance to points on an infinite field! I'm not actually calculating an infinite field for that one, but I am having my code go through way more points than is probably necessary.
 
+**Link(s) to work**
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
 
@@ -410,6 +437,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I didn't get much done today, but that can partly be blamed on an internet outage. The majority of the blame lies with me, though. I did have fun coding, I just didn't find any correct answers to coding challenges.
 
+**Link(s) to work**
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
 
@@ -419,6 +447,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: Still didn't get much done today, but I think I figured out what I did wrong on 6.1 at least.
 
+**Link(s) to work**
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
 
@@ -428,6 +457,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I finally got 6.1 finished! I wrote the program out in pseudocode first, which really helped.
 
+**Link(s) to work**
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
 
@@ -437,6 +467,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I spent most of my time debugging 7.1. I got the right answer yesterday, but that was by checking my results line by line and finding where my program went off track. I think I ran into a weird python issue on 7.1, but I asked for some help in a forum to make sure I'm not missing something simple.
 
+**Link(s) to work**
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
 
@@ -446,6 +477,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I figured out what I was doing wrong on 7.1, and I spent most of the rest of my time trying to work out the logic for 7.2 and 8.1. I think I have an idea of how to approach 8.1, but I'm still lost on 7.2.
 
+**Link(s) to work**
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
 
@@ -455,5 +487,17 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Thoughts**: I was debugging 8.1, and my PC hit a blue screen of death. I fired up my Fedora laptop that I just use for coding, and played around with Pygame instead. I might have a few ideas for fun projects with Pygame.
 
+**Link(s) to work**
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
+
+### Day 45: Saturday, December 15th, 2018
+
+**Today's Progress**: I solved Advent of Code problem 8.1, and I played around with Halite.
+
+**Thoughts**: I've been running into a lot of problems with Advent of Code, mostly because I'm not really good at programming. It looks like Halite and Pygame are fun, I'll probably play with those for a while.
+
+**Link(s) to work**
+1. [Advent of Code](https://adventofcode.com/)
+    In progress here: https://github.com/dghohens/AdventOfCode
+2. [Halite](https://halite.io/)
