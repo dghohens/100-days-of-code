@@ -448,3 +448,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
+
+### Day 44: Friday, December 14th, 2018
+
+**Today's Progress**: I worked on Advent of Code problem 8.1 and played around with Pygame.
+
+**Thoughts**: I was debugging 8.1, and my PC hit a blue screen of death. I fired up my Fedora laptop that I just use for coding, and played around with Pygame instead. I might have a few ideas for fun projects with Pygame.
+
+1. [Advent of Code](https://adventofcode.com/)
+    In progress here: https://github.com/dghohens/AdventOfCode
