@@ -501,3 +501,14 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 1. [Advent of Code](https://adventofcode.com/)
     In progress here: https://github.com/dghohens/AdventOfCode
 2. [Halite](https://halite.io/)
+
+
+### Day 46: Sunday, December 16th, 2018
+
+**Today's Progress**: I played with Halite, and I worked on reproducing the old DVD screensaver in Pygame.
+
+**Thoughts**: Had some fun today, even if it took me a while to get around to coding. I'm enjoying Pygame!
+
+**Link(s) to work**
+1. [Halite](https://halite.io/)
+2. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
