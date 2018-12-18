@@ -513,11 +513,20 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 1. [Halite](https://halite.io/)
 2. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
 
-### Day 47: Monday, December 16th, 2018
+### Day 47: Monday, December 17th, 2018
 
 **Today's Progress**: I made the old DVD screensaver in Pygame. I started working on making a solar system simulation.
 
 **Thoughts**: Had a lot more fun today! I'm excited to work on this solar system simulation!
+
+**Link(s) to work**
+1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
+
+### Day 48: Tuesday, December 18th, 2018
+
+**Today's Progress**: I made the planets orbit in my solar system simulation!
+
+**Thoughts**: Lots of good progress today!
 
 **Link(s) to work**
 1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
