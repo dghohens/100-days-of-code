@@ -530,3 +530,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
+
+### Day 49: Wednesday, December 19th, 2018
+
+**Today's Progress**: Worked on getting the moon to orbit the earth. I'm trying to base one object's position off another object's position, and animate both objects. It's an interesting challenge!
+
+**Thoughts**: Pygame is a lot of fun! I'm not sure what else I'll make in this, but I'm having fun for now!
+
+**Link(s) to work**
+1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
