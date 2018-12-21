@@ -539,3 +539,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
+
+### Day 50: Thursday, December 20th, 2018
+
+**Today's Progress**: Finished the solar system model, and reworked how orbits are calculated so they aren't jumpy near the x=0 point.
+
+**Thoughts**: This has been fun! I think I'm gonna keep playing with Pygame!
+
+**Link(s) to work**
+1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
