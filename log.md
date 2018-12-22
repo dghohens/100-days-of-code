@@ -557,3 +557,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
+
+### Day 52: Saturday, December 22nd, 2018
+
+**Today's Progress**: Worked on the archer game.
+
+**Thoughts**: It's starting to look more like a game! It actually requires end user intervention to fire the arrow, but that's it for now. I'll add in some aiming next.
+
+**Link(s) to work**
+1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
