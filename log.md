@@ -548,3 +548,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
+
+### Day 51: Friday, December 21st, 2018
+
+**Today's Progress**: Started work on a basic archer game.
+
+**Thoughts**: I didn't get as much work done today as I wanted, but I still had some fun. I'm starting to look at more advanced features of pygame.
+
+**Link(s) to work**
+1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
