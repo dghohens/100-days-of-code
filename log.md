@@ -566,3 +566,14 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
+
+
+### Day 53: Sunday, December 23rd, 2018
+
+**Today's Progress**: Worked on the archer game. I tried to get the arrow to rotate, but it didn't work.
+
+**Thoughts**: Wow, rotation in pygame is kinda tough to do. I'll keep trying though!
+
+**Link(s) to work**
+1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
+
