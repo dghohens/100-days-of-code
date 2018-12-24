@@ -577,3 +577,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 **Link(s) to work**
 1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
 
+
+### Day 54: Monday, December 24th, 2018
+
+**Today's Progress**: Worked on the archer game. I got the arrow to rotate and follow an arc, like it's supposed to.
+
+**Thoughts**: I figured out that if I rotate an original image more and more, rather than continually rotating the same image, it works a lot better. I think that's because pygame doesn't preserve the image properly through multiple transforms.
+
+**Link(s) to work**
+1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
