@@ -586,3 +586,14 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
+
+
+### Day 55: Tuesday, December 25th, 2018
+
+**Today's Progress**: Worked on the archer game. I added more functionality, so now a player actually has some input on where the arrow goes!
+
+**Thoughts**: Coding on Christmas is tough!
+
+**Link(s) to work**
+1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
+
