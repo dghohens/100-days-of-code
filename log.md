@@ -597,3 +597,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 **Link(s) to work**
 1. [Pygame repo](https://github.com/dghohens/PlayingWithPygame)
 
+
+### Day 56: Wednesday, December 26th, 2018
+
+**Today's Progress**: Worked on getting PyTone to work in Python 3.7 on Windows 10.
+
+**Thoughts**: I'm hitting some interesting challenges trying to port an old Python 2.5 program into a modern version of Python. It seems to be pretty fun!
+
+**Link(s) to work**
+1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
