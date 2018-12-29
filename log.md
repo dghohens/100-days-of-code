@@ -607,6 +607,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 **Link(s) to work**
 1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
 
+
 ### Day 57: Thursday, December 27th, 2018
 
 **Today's Progress**: Worked on getting PyTone to work in Python 3.7 on Windows 10. I'm trying to get UniCurses to work.
@@ -616,11 +617,22 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 **Link(s) to work**
 1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
 
+
 ### Day 58: Friday, December 28th, 2018
 
 **Today's Progress**: Worked on getting PyTone to work in Python 3.7 on Windows 10. I'm trying to get UniCurses to work.
 
 **Thoughts**: Still more debugging. I think I'm at least 1 step closer than I was yesterday.
+
+**Link(s) to work**
+1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
+
+
+### Day 59: Saturday, December 29th, 2018
+
+**Today's Progress**: Worked on getting PyTone to work in Python 3.7 on Windows 10. Unicurses seems to work now, but I'm having some trouble getting it to work with PyTone.
+
+**Thoughts**: More debugging, taking a small step every day. It's kind of frustrating, but I'm keeping things moving, so it's OK.
 
 **Link(s) to work**
 1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
