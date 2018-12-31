@@ -636,3 +636,13 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
+
+
+### Day 60: Sunday, December 30th, 2018
+
+**Today's Progress**: Worked on getting PyTone to work in Python 3.7 on Windows 10. I've been working on converting the PyTone scripts to work with Python 3.
+
+**Thoughts**: It's slow work, but I'm learning a lot about the differences between Python 2 and 3!
+
+**Link(s) to work**
+1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
