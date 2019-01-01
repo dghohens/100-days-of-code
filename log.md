@@ -656,3 +656,14 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
+
+
+
+### Day 62: Tuesday, January 1st, 2019
+
+**Today's Progress**: Still working on getting PyTone to work with Python 3 in Windows 10. I didn't really make any progress today, I'm hitting the same error that I was hitting yesterday.
+
+**Thoughts**: I'm disappointed that I didn't make any progress today, but I think I learned a bit about how this was built.
+
+**Link(s) to work**
+1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
