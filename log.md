@@ -667,3 +667,13 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
+
+
+### Day 63: Wednesday, January 2nd, 2019
+
+**Today's Progress**: Still working on getting PyTone to work with Python 3 in Windows 10. I made it past the class error from yesterday, but now I'm running into an issue where PyTone can't reach my music directory.
+
+**Thoughts**: I'm happy to finally get an error that's due to a configuration issue, rather than an exception in code.
+
+**Link(s) to work**
+1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
