@@ -677,3 +677,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
+
+### Day 64: Thursday, January 3rd, 2019
+
+**Today's Progress**: I got PyTone to work on Fedora, mostly. I'm not sure I'll be able to get it to work in Windows without a full rebuild.
+
+**Thoughts**: I think I'm gonna make my own version of a PyTone-like player on Windows. That should be more fun than plugging away at doing 2 ports at once.
+
+**Link(s) to work**
+1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
