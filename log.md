@@ -686,3 +686,12 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Py3Tone repo](https://github.com/dghohens/Py3Tone)
+
+### Day 65: Friday, January 4th, 2019
+
+**Today's Progress**: I started working on making a music player in Python. I had issues getting a package that would play a mp3 file properly.
+
+**Thoughts**: Ran into some trouble today. Hopefully once I have the right packages, I can actually get something working.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
