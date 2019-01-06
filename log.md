@@ -695,3 +695,13 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 66: Saturday, January 5th, 2019
+
+**Today's Progress**: The music player now plays music and shows the number of seconds elapsed in the song compared to the total. However, it also stops playing music for around 0.1 second, once per second.
+
+**Thoughts**: Something that works! It doesn't work well, but it works!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
