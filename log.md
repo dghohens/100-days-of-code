@@ -705,3 +705,13 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 67: Sunday, January 6th, 2019
+
+**Today's Progress**: The music player doesn't skip, and it displays the number of seconds elapsed and overwrites that total once per second. I got a basic interface test working too.
+
+**Thoughts**: Colorama seems pretty cool. This thing might actually work!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
