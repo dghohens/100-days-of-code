@@ -715,3 +715,13 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 68: Monday, January 7th, 2019
+
+**Today's Progress**: Worked on displaying files in the interface. More general formatting.
+
+**Thoughts**: I have one page of the interface that actually looks like a working product!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
