@@ -725,3 +725,13 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 69: Tuesday, January 8th, 2019
+
+**Today's Progress**: Worked on interface formatting. Created a config file.
+
+**Thoughts**: The config file looks like it'll be pretty handy!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
