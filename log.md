@@ -735,3 +735,13 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 70: Wednesday, January 9th, 2019
+
+**Today's Progress**: Worked on keyboard input.
+
+**Thoughts**: Keyboard input seems to work OK, now I just need to figure out how I'm going to make changes in the interface.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
