@@ -735,7 +735,7 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
-
+t
 
 ### Day 70: Wednesday, January 9th, 2019
 
@@ -745,3 +745,14 @@ I really didn't think this challenge would be this difficult, but I'm learning a
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 71: Thursday, January 10th, 2019
+
+**Today's Progress**: Worked on the interface coloring.
+
+**Thoughts**: I feel like I wasted a lot of time trying to do something that wouldn't work, but at least I have an idea of how to use the config file to display different interface colors.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
