@@ -756,3 +756,13 @@ t
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
 
+
+### Day 72: Friday, January 11th, 2019
+
+**Today's Progress**: Worked on the interface, folder selection works now.
+
+**Thoughts**: This is starting to look better and better every day!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
