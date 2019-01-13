@@ -766,3 +766,12 @@ t
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
 
+
+### Day 73: Saturday, January 12th, 2019
+
+**Today's Progress**: Worked on the interface and folder selection.
+
+**Thoughts**: I think I figured out how to go up and down in the folder structure, which is pretty cool. Now I just have to make it work.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
