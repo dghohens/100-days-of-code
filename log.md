@@ -785,3 +785,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 75: Monday, January 14th, 2019
+
+**Today's Progress**: Worked on folder selection.
+
+**Thoughts**: More progress today, I spent most of my time simplifying existing code. It's a lot easier to follow what's going on now!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
