@@ -795,3 +795,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 76: Tuesday, January 15th, 2019
+
+**Today's Progress**: Worked on the interface, specifically file selection when you go beyond the existing list.
+
+**Thoughts**: I wasn't able to finish the file scrolling, but I have an idea of how it'll work, and that's something at least.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
