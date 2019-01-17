@@ -815,3 +815,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 78: Thursday, January 17th, 2019
+
+**Today's Progress**: Worked on splitting functions into separate modules.
+
+**Thoughts**: Some good progress today, but I can't help but feel like I took a step backwards. Hopefully tomorrow I'll catch up.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
