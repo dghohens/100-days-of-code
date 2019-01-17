@@ -805,3 +805,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 77: Wednesday, January 16th, 2019
+
+**Today's Progress**: Worked on the interface and started to split functions into separate modules.
+
+**Thoughts**: Hopefully splitting everything into modules will help make debugging and future features easier. We'll see!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
