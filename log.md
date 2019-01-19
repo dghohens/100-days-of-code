@@ -825,3 +825,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 79: Friday, January 18th, 2019
+
+**Today's Progress**: Worked on getting the program to run again after splitting it into separate modules.
+
+**Thoughts**: I might have made this project harder, but I feel like modules are definitely the way to go here.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
