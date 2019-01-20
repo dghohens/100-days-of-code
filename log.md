@@ -835,3 +835,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 80: Saturday, January 19th, 2019
+
+**Today's Progress**: Worked on getting the program to run again after splitting it into separate modules.
+
+**Thoughts**: Still working on getting the program to work like it did before. Why did I split this into separate modules again?
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
