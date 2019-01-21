@@ -845,3 +845,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 81: Sunday, January 20th, 2019
+
+**Today's Progress**: Worked on separate modules and getting music to play.
+
+**Thoughts**: I think the file selection is mostly working now, so I'm making progress!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
