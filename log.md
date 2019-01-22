@@ -855,3 +855,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 82: Monday, January 21st, 2019
+
+**Today's Progress**: Worked on getting music to play.
+
+**Thoughts**: Music plays as a standalone program, but doesn't seem to work as a (mostly) duplicate module. Why? I don't know! We'll see tomorrow!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
