@@ -865,3 +865,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 83: Tuesday, January 22nd, 2019
+
+**Today's Progress**: Worked on getting music to play, I tried some different modules.
+
+**Thoughts**: Music plays now, but I can't figure out how to stop it. I looked at some different modules to see if I can find out how they did it. I might switch to a different module for playing music.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
