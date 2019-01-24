@@ -875,3 +875,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 84: Wednesday, January 23rd, 2019
+
+**Today's Progress**: Worked on getting music to play, I tried using python-vlc.
+
+**Thoughts**: It seems like VLC for media is the easiset solution, and it seems to play both FLAC and MP3 files just fine, which is good. I tried to stay away from it at first, because now this project just seems like a CLI skin for VLC. However, if that's what I have to do to have a working project, that's what I'll do.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
