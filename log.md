@@ -885,3 +885,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 85: Thursday, January 24th, 2019
+
+**Today's Progress**: Worked on getting music to play, and addressed bugs.
+
+**Thoughts**: I can play music now, and play more than one song! I just have to stop the first song before playing the second one. Even if the first song has already ended. But hey, getting closer!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
