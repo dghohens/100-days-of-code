@@ -905,3 +905,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 87: Saturday, January 26th, 2019
+
+**Today's Progress**: Worked on bugs.
+
+**Thoughts**: 3 more bugs down, that's always good!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
