@@ -915,3 +915,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 88: Sunday, January 27th, 2019
+
+**Today's Progress**: Worked on a bug.
+
+**Thoughts**: I spent the full hour working on one lousy bug, and I didn't even fix it! Oh well, at least I got a little closer.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
