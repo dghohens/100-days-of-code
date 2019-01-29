@@ -935,3 +935,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 90: Tuesday, January 29th, 2019
+
+**Today's Progress**: Worked on a bug and started working on the media player interface.
+
+**Thoughts**: It's good to have that bug fixed, but now I have the way harder task of actually building new functionality. It's still good to make progress though!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
