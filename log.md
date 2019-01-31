@@ -945,3 +945,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 91: Wednesday, January 30th, 2019
+
+**Today's Progress**: Worked on the media player interface.
+
+**Thoughts**: I spent about 30 minutes today trying to figure out why the interface wouldn't display with the foreground in yellow properly. I realized that this was because I'm using Flux, and my whole screen is kinda yellow. I couldn't notice the difference between white and yellow! I feel silly.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
