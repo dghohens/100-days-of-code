@@ -955,3 +955,14 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 92: Thursday, January 31st, 2019
+
+**Today's Progress**: Worked on the media player interface.
+
+**Thoughts**: I'm looking for a way to display what the current sont play time is. I'm still working on finding that.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
