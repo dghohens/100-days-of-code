@@ -961,8 +961,17 @@ t
 
 **Today's Progress**: Worked on the media player interface.
 
-**Thoughts**: I'm looking for a way to display what the current sont play time is. I'm still working on finding that.
+**Thoughts**: I'm looking for a way to display what the current song play time is. I'm still working on finding that.
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
 
+
+### Day 93: Friday, February 1st, 2019
+
+**Today's Progress**: Worked on the media player interface.
+
+**Thoughts**: I found a way to determine the total length of a song, and I can probably use the time module to determine with a decent amount of accuracy what the current time of a playing song is. Displaying that is another matter. I think I'm going to have to figure out how to use asyncio.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
