@@ -975,3 +975,12 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+### Day 94: Saturday, February 2nd, 2019
+
+**Today's Progress**: Tried to get asyncio to work, learned about gevent.
+
+**Thoughts**: I think gevent is gonna be the easiest way to get this to work. I'll try to implement that tomorrow.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
