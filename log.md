@@ -984,3 +984,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 95: Sunday, February 3rd, 2019
+
+**Today's Progress**: Played around with gevent, tried to implement it in my program.
+
+**Thoughts**: Gevent looks like the way to go, but it breaks the rest of my program. Gotta figure out those bugs again!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
