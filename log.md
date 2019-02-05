@@ -1004,3 +1004,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 97: Tuesday, February 5th, 2019
+
+**Today's Progress**: Worked on getting gevent to work.
+
+**Thoughts**: Still can't get the dang gevent counter to work.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
