@@ -994,3 +994,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 96: Monday, February 4th, 2019
+
+**Today's Progress**: Worked on getting gevent to work.
+
+**Thoughts**: All I want is for the second counter to increment regardless of whether there's been any input. Apparently, this is hard to do.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
