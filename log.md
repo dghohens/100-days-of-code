@@ -1014,3 +1014,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 98: Wednesday, February 6th, 2019
+
+**Today's Progress**: Worked on getting gevent to work.
+
+**Thoughts**: Still trying to figure out how gevent timers work. Kinda annoying that I'm still having problems with it.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
