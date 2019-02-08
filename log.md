@@ -1024,3 +1024,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 99: Thursday, February 7th, 2019
+
+**Today's Progress**: Worked on gevent, started working on multiprocessing.
+
+**Thoughts**: Seems like multiprocessing might be the way to go here. I'll see if I can implement it tomorrow.
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
