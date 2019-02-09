@@ -1034,3 +1034,13 @@ t
 
 **Link(s) to work**
 1. [Music player repo](https://github.com/dghohens/MusicPlayer)
+
+
+### Day 100: Friday, February 8th, 2019
+
+**Today's Progress**: I got multiproccessing to work, finally. I still need to work on implemting it into the main program, but maybe that'll be on the next 100 days of code! I also worked on getting the main program back into a working state from before I tried to implement gevent.
+
+**Thoughts**: Finally done! I'm a little disappointed that I wasn't able to finish my media player program, but I did get something that I can use to play at least one song at a time. But that's overshadowed by how excited I am to not have to code tomorrow!
+
+**Link(s) to work**
+1. [Music player repo](https://github.com/dghohens/MusicPlayer)
